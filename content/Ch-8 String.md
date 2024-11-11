@@ -1,3 +1,5 @@
+# String
+
 A sequence of characters is known as string. String is data type.
 
 There are two methods of creating string.

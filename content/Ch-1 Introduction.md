@@ -1,3 +1,6 @@
+
+# Rust Introduction
+
 Rust is a new, powerful programming language created by Mozilla. It's designed to make programs fast, reliable, and safe. Unlike older languages like C and C++, Rust helps you avoid common programming mistakes that can cause crashes or security problems. This tutorial will guide you through the basics of Rust, so you can start building your own amazing projects!
 
 ## Features of Rust

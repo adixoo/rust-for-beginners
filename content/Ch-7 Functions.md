@@ -1,3 +1,5 @@
+# Functions
+
 Functions are reusable block of codes that can be called when needed.
 
 ```rust

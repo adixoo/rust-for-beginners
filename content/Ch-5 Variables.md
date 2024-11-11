@@ -1,4 +1,6 @@
 
+# Variables 
+
 Variables are used to store data in RAM.
 ## Syntax
 

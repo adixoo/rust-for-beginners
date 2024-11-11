@@ -1,5 +1,5 @@
-
-## Prerequirties 
+# Ownership
+## Prerequities 
 
 - String
 - Variables
